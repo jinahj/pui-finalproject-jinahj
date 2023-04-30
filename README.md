@@ -1,3 +1,4 @@
-# My Super Cool Project
+# PUI Final Project 
 
-Link: 
+Deployed Website: https://jinahj.github.io/pui-finalproject-jinahj/
+Repository Link: 
