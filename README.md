@@ -1,3 +1,3 @@
 # My Super Cool Project
 
-This is my PUI final project.
+Link: https://github.com/jinahj/pui-finalproject-jinahj.git 
